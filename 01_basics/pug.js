@@ -1,0 +1,1 @@
+console.log("paggu kal se jaldi sona tum");
